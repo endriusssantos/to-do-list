@@ -32,14 +32,16 @@ Uma aplicação simples de lista de tarefas que permite adicionar, marcar como c
 
 ## 📂 Estrutura de Pastas
 
+```
 projeto-todo-list/
 ├── index.html
 └── src/
-├── css/
-│ ├── reset.css
-│ └── style.css
-└── js/
-└── script.js
+    ├── css/
+    │   ├── reset.css
+    │   └── style.css
+    └── js/
+        └── script.js
+```
 
 ---
 
