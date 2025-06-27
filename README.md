@@ -51,7 +51,7 @@ projeto-todo-list/
 
 ```bash
 git clone https://github.com/endriusssantos/to-do-list
-cd projeto-todo-list
+cd to-do-list
 ```
 
 2. Abra o arquivo index.html em seu navegador, ou use uma extensão como "Live Server" no VSCode.
