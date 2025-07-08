@@ -2,6 +2,8 @@
 
 Uma aplicação simples de lista de tarefas que permite adicionar, marcar como concluídas e excluir tarefas. O projeto salva automaticamente as tarefas no localStorage do navegador para persistência entre sessões.
 
+🔗 **Acesse o projeto online:** [GitHub Pages](https://endriusssantos.github.io/to-do-list/)
+
 ---
 
 ## ✨ Funcionalidades
